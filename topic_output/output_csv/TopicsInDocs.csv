@@ -1,44 +1,44 @@
 docId,filename,top topics, and contribution to doc ...
-1,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/austen_pride_ch1.txt,7,0.524,11,0.157,1,0.091,9,0.067
-2,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/austen_pride_ch2.txt,7,0.479,9,0.144,10,0.117,11,0.082
-3,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/austen_pride_ch40.txt,7,0.541,11,0.206
-4,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/austen_pride_ch50.txt,7,0.574,11,0.168
-5,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/austen_sense_ch1.txt,7,0.630,11,0.141
-6,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/austen_sense_ch2.txt,7,0.529,11,0.255
-7,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/austen_sense_ch27.txt,7,0.506,11,0.157,9,0.101
-8,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/austen_sense_ch41.txt,7,0.519,11,0.214,9,0.076,1,0.052
-9,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/barrie_peterpan_ch1.txt,10,0.496,9,0.102,8,0.089,11,0.072
-10,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/barrie_peterpan_ch15.txt,5,0.523,9,0.113,10,0.082,8,0.061,11,0.056
-11,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/barrie_peterpan_ch2.txt,10,0.621,9,0.103
-12,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/brown_angels_ch1.txt,2,0.373,9,0.142,8,0.103,11,0.080,3,0.076,12,0.062,5,0.052
-13,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/brown_angels_ch2_4.txt,2,0.355,3,0.159,9,0.148,11,0.087,8,0.084
-14,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/brown_davinci_ch0.txt,2,0.347,9,0.123,12,0.117,11,0.108,5,0.075,3,0.072,8,0.058
-15,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/brown_davinci_ch1.txt,2,0.473,9,0.125,8,0.096,11,0.052,3,0.051
-16,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/brown_davinci_ch77.txt,2,0.645,11,0.091,9,0.073
-17,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/brown_davinci_ch92.txt,2,0.630,9,0.084,11,0.072
-18,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/conrad_secret_ch1.txt,6,0.310,9,0.157,7,0.129,1,0.076,11,0.074,5,0.066
-19,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/conrad_secret_ch2.txt,6,0.456,9,0.141,11,0.101,1,0.070,8,0.062,7,0.051
-20,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/doyle_caseofidentity.txt,1,0.409,11,0.162,9,0.126,7,0.066
-21,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/doyle_redheadedleague.txt,1,0.443,9,0.192,11,0.091,8,0.056
-22,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/doyle_scandalbohemia.txt,1,0.397,9,0.191,11,0.115
-23,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/eliot_middlemarch_ch1.txt,4,0.393,11,0.136,7,0.114,9,0.108,1,0.074
-24,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/eliot_middlemarch_ch2.txt,4,0.412,11,0.180,9,0.085,7,0.081,6,0.079
-25,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/eliot_middlemarch_ch48.txt,4,0.276,11,0.188,9,0.128,7,0.086,5,0.070,8,0.069,10,0.059
-26,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/eliot_middlemarch_ch73.txt,11,0.341,7,0.142,4,0.112,6,0.079,9,0.068,5,0.055,1,0.055
-27,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/eljames_fiftyshades_ch1.txt,12,0.417,9,0.204,11,0.203
-28,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/eljames_fiftyshades_ch18.txt,12,0.611,9,0.202,11,0.054
-29,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/eljames_fiftyshades_ch2.txt,12,0.440,9,0.188,11,0.148
-30,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/eljames_fiftyshades_ch23.txt,12,0.572,9,0.171,11,0.061,10,0.056
-31,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/grimms_hanselgretel.txt,5,0.563,9,0.212,10,0.066,8,0.064
-32,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/grimms_snowdrop.txt,5,0.334,4,0.330,9,0.170
-33,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/grimms_wateroflife.txt,5,0.652,9,0.128,11,0.066
-34,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/lewis_lionwitch_ch1.txt,8,0.413,9,0.210,5,0.057,3,0.057,10,0.053,12,0.051,11,0.051
-35,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/lewis_lionwitch_ch12.txt,8,0.481,9,0.181,5,0.143
-36,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/lewis_lionwitch_ch14.txt,8,0.510,9,0.115,5,0.109,10,0.068
-37,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/lewis_lionwitch_ch2.txt,8,0.564,9,0.185,5,0.078
-38,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/meyer_twilight_ch1.txt,3,0.454,9,0.205,11,0.073,8,0.063
-39,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/meyer_twilight_ch15.txt,3,0.315,9,0.236,12,0.096,8,0.084,11,0.080,5,0.052
-40,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/meyer_twilight_ch2.txt,3,0.487,9,0.180,11,0.143,12,0.052
-41,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/meyer_twilight_ch21.txt,9,0.351,3,0.343,11,0.107
-42,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/stevenson_treasure_ch1.txt,9,0.242,4,0.232,5,0.180,10,0.106,11,0.070
-43,/Users/lynn/Documents/Talks/TopicNetworksPyladies/./data/mixed_chapters/stevenson_treasure_ch2.txt,9,0.304,4,0.291,10,0.098,5,0.093,8,0.067
+1,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/austen_pride_ch1.txt,3,0.370,1,0.138,12,0.134,6,0.130,10,0.083,4,0.067
+2,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/austen_pride_ch2.txt,3,0.393,4,0.152,1,0.117,11,0.074,6,0.070,10,0.054,8,0.051
+3,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/austen_pride_ch40.txt,3,0.441,6,0.141,1,0.116,12,0.106,4,0.056
+4,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/austen_pride_ch50.txt,3,0.424,1,0.222,6,0.101,12,0.074
+5,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/austen_sense_ch1.txt,3,0.377,1,0.241,12,0.116,11,0.083,10,0.058
+6,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/austen_sense_ch2.txt,3,0.384,1,0.294,12,0.096,6,0.076
+7,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/austen_sense_ch27.txt,3,0.425,6,0.135,12,0.099,4,0.081,1,0.076,5,0.060
+8,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/austen_sense_ch41.txt,3,0.423,1,0.143,6,0.142,12,0.067,5,0.061,4,0.054,10,0.050
+9,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/barrie_peterpan_ch1.txt,11,0.458,12,0.096,9,0.066,4,0.061,8,0.060,6,0.058,5,0.053
+10,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/barrie_peterpan_ch15.txt,7,0.397,4,0.208,11,0.112,8,0.076,9,0.070,6,0.057
+11,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/barrie_peterpan_ch2.txt,11,0.493,4,0.133,8,0.089,1,0.073,3,0.054,9,0.052
+12,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/brown_angels_ch1.txt,7,0.326,5,0.107,12,0.105,4,0.083,8,0.080,10,0.070,9,0.068,2,0.052
+13,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/brown_angels_ch2_4.txt,7,0.367,5,0.123,4,0.112,12,0.110,8,0.070,9,0.068
+14,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/brown_davinci_ch0.txt,7,0.252,4,0.180,8,0.155,12,0.123,5,0.065,3,0.063
+15,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/brown_davinci_ch1.txt,7,0.401,12,0.103,4,0.086,9,0.084,5,0.069,8,0.065,10,0.057
+16,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/brown_davinci_ch77.txt,7,0.625,12,0.084,6,0.058,8,0.051
+17,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/brown_davinci_ch92.txt,7,0.438,12,0.288,10,0.055
+18,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/conrad_secret_ch1.txt,1,0.323,6,0.142,12,0.104,4,0.100,8,0.071,10,0.069
+19,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/conrad_secret_ch2.txt,1,0.408,4,0.107,6,0.095,8,0.089,12,0.081,10,0.077,9,0.060
+20,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/doyle_caseofidentity.txt,10,0.386,6,0.131,4,0.119,12,0.101,8,0.072,1,0.068
+21,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/doyle_redheadedleague.txt,6,0.359,10,0.200,4,0.123,8,0.090,12,0.070
+22,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/doyle_scandalbohemia.txt,10,0.399,4,0.159,12,0.111,6,0.077,8,0.076
+23,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/eliot_middlemarch_ch1.txt,3,0.328,12,0.232,6,0.096,1,0.083,4,0.080,10,0.060,8,0.050
+24,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/eliot_middlemarch_ch2.txt,3,0.316,6,0.255,12,0.106,4,0.078,9,0.063
+25,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/eliot_middlemarch_ch48.txt,3,0.281,12,0.202,4,0.092,11,0.074,8,0.066,6,0.063,1,0.063,9,0.058
+26,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/eliot_middlemarch_ch73.txt,1,0.206,4,0.149,3,0.147,12,0.138,6,0.123,10,0.072
+27,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/eljames_fiftyshades_ch1.txt,2,0.402,8,0.218,12,0.155,6,0.074
+28,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/eljames_fiftyshades_ch18.txt,2,0.401,8,0.378,12,0.060,4,0.054
+29,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/eljames_fiftyshades_ch2.txt,2,0.419,8,0.173,12,0.121,4,0.065,6,0.056,5,0.053
+30,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/eljames_fiftyshades_ch23.txt,2,0.416,8,0.340,12,0.052
+31,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/grimms_hanselgretel.txt,11,0.597,4,0.168,9,0.078
+32,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/grimms_snowdrop.txt,11,0.499,4,0.266
+33,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/grimms_wateroflife.txt,4,0.430,11,0.270,3,0.161
+34,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/lewis_lionwitch_ch1.txt,9,0.377,4,0.165,8,0.114,11,0.083,5,0.078,6,0.064
+35,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/lewis_lionwitch_ch12.txt,9,0.485,4,0.175,8,0.103,5,0.057,11,0.056
+36,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/lewis_lionwitch_ch14.txt,9,0.503,4,0.127,8,0.097,11,0.079,5,0.053
+37,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/lewis_lionwitch_ch2.txt,9,0.515,11,0.104,8,0.100,4,0.092,5,0.052
+38,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/meyer_twilight_ch1.txt,5,0.409,8,0.177,12,0.098,4,0.098,6,0.061
+39,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/meyer_twilight_ch15.txt,5,0.303,8,0.220,4,0.135,12,0.097,9,0.080
+40,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/meyer_twilight_ch2.txt,5,0.459,8,0.172,12,0.106,4,0.094,6,0.056
+41,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/meyer_twilight_ch21.txt,5,0.380,8,0.202,4,0.117,12,0.095,6,0.055
+42,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/stevenson_treasure_ch1.txt,4,0.465,6,0.133,11,0.101,8,0.067,12,0.054
+43,/Users/lynn/Documents/My Talks and Courses/TopicNetworksPyladies/./data/mixed_chapters/stevenson_treasure_ch2.txt,4,0.623,8,0.078,9,0.060,6,0.056
